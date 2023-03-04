@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetoTwitter</string>
+
+    <string name="textMessage">Este es el texto esta en los recursos de tipo String en el proyecto para el post que estoy escribiendo ahora mismo. Es una prueba para ver que tal se ve en la preview y calcular los espacios</string>
+</resources>
