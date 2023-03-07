@@ -65,10 +65,3 @@ fun PostDivider() {
         color = Color(0xFF7E8B98)
     )
 }
-
-
-
-
-
-
-
